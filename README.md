@@ -9,4 +9,4 @@
 
 ## Projects
 - [ ] Build BitTorrent in Rust
-- [ ] async zookeeper in Rust
+- [ ] CEX in Rust
